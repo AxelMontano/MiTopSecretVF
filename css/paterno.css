@@ -1004,7 +1004,6 @@ General styles
   @media (max-width: 500px) {
     /* Estilos para la versión móvil */
     .action_btn2 {
-      display: block;
       text-align: center;
       margin-top: 20px;
     }
